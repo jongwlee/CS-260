@@ -1,0 +1,165 @@
+jongwlee@fluffy ~/Project2 $ ./atm.bash
+atm.bash atm.cshrc atm.ksh atm.zsh Welcome to Cal Poly's ATM atm.bash atm.cshrc atm.ksh atm.zsh Please enter your PIN:
+222
+atm.bash atm.cshrc atm.ksh atm.zsh Welcome to Cal Poly's ATM atm.bash atm.cshrc atm.ksh atm.zsh Please enter your PIN:
+2
+atm.bash atm.cshrc atm.ksh atm.zsh Welcome to Cal Poly's ATM atm.bash atm.cshrc atm.ksh atm.zsh Please enter your PIN:
+2
+Too many illegal PINs. Try again later.
+jongwlee@fluffy ~/Project2 $ ./atm.bash
+atm.bash atm.cshrc atm.ksh atm.zsh Welcome to Cal Poly's ATM atm.bash atm.cshrc atm.ksh atm.zsh Please enter your PIN:
+111
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+1
+How much would you like to transfer?
+200
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+3
+The balance in the savings account is:  1200
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+4
+The balance in the checkings account is:  800
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+2
+How much would you like to transfer?
+300
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+3
+The balance in the savings account is:  900
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+4
+The balance in the checkings account is:  1100
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+6
+
+
+atm.ksh atm.zsh Please enter your PIN:
+111
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+5
+Which account do you want to withdraw from?
+checking
+How much do you want to withdraw?
+300
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+5
+Which account do you want to withdraw from?
+200
+This is not a valid account
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+3
+The balance in the savings account is:  1000
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+4
+The balance in the checkings account is:  700
+*** Welcome To Cal Poly's ATM System ***
+
+(1) Transfer from checking account to savings account
+(2) Transfer from savings account to checking account
+(3) Savings account balance
+(4) Checking account balance
+(5) Withdraw Cash from either account
+(6) Exit
+
+==> Please select option (1-6):
+6
+
